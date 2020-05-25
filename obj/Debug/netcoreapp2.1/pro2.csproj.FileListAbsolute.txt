@@ -1,0 +1,11 @@
+C:\Users\FoX\Desktop\it\pro2\pro2\bin\Debug\netcoreapp2.1\pro2.deps.json
+C:\Users\FoX\Desktop\it\pro2\pro2\bin\Debug\netcoreapp2.1\pro2.runtimeconfig.json
+C:\Users\FoX\Desktop\it\pro2\pro2\bin\Debug\netcoreapp2.1\pro2.runtimeconfig.dev.json
+C:\Users\FoX\Desktop\it\pro2\pro2\bin\Debug\netcoreapp2.1\pro2.dll
+C:\Users\FoX\Desktop\it\pro2\pro2\bin\Debug\netcoreapp2.1\pro2.pdb
+C:\Users\FoX\Desktop\it\pro2\pro2\obj\Debug\netcoreapp2.1\pro2.csprojAssemblyReference.cache
+C:\Users\FoX\Desktop\it\pro2\pro2\obj\Debug\netcoreapp2.1\pro2.csproj.CoreCompileInputs.cache
+C:\Users\FoX\Desktop\it\pro2\pro2\obj\Debug\netcoreapp2.1\pro2.AssemblyInfoInputs.cache
+C:\Users\FoX\Desktop\it\pro2\pro2\obj\Debug\netcoreapp2.1\pro2.AssemblyInfo.cs
+C:\Users\FoX\Desktop\it\pro2\pro2\obj\Debug\netcoreapp2.1\pro2.dll
+C:\Users\FoX\Desktop\it\pro2\pro2\obj\Debug\netcoreapp2.1\pro2.pdb
